@@ -1,7 +1,3 @@
-Got it! Here's a concise README for your project:
-
----
-
 # Job Resume Matcher
 
 ## Overview
